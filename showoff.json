@@ -1,0 +1,12 @@
+{
+  "name": "Vim Efficiency",
+  "sections": [
+    { "section": "title" },
+    { "section": "movement"},
+    { "section": "actions"},
+    { "section": "motions"},
+    { "section": "text_objects"},
+    { "section": "surround"},
+    { "section": "end" }
+  ]
+}
