@@ -3,9 +3,7 @@
   "sections": [
     { "section": "title" },
     { "section": "movement"},
-    { "section": "actions"},
-    { "section": "motions"},
-    { "section": "text_objects"},
+    { "section": "operating"},
     { "section": "surround"},
     { "section": "end" }
   ]
