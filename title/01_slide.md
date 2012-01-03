@@ -1,6 +1,6 @@
 !SLIDE 
 
-# Vim Efficiency
+# Efficient Vim
 
 ## getting more out of your editor
 
