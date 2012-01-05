@@ -1,10 +1,11 @@
 {
-  "name": "Vim Efficiency",
+  "name": "Efficient Vim",
   "sections": [
     { "section": "title" },
     { "section": "movement"},
     { "section": "operating"},
     { "section": "surround"},
+    { "section": "other"},
     { "section": "end" }
   ]
 }

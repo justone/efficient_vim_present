@@ -6,13 +6,13 @@
 
 # Basic concepts #
 
-* Actions
-* Modifiers
-* Objects
+* Count (optional)
+* Operator
+* Motion
 
 !SLIDE bullets incremental
 
-# Actions
+# Operator
 
 * y - yank
 * v - visual select
@@ -21,13 +21,17 @@
 
 !SLIDE bullets incremental
 
+# Motion
+
+* Simple motions
+* Text objects
+
+!SLIDE bullets incremental
+
 # Modifiers
 
 * i - inner
 * a - around
-* t - till
-* f - find
-* / - search
 
 !SLIDE bullets incremental
 
