@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Operating on text #
+# operating on text #
 
 !SLIDE bullets incremental
 

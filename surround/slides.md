@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Surround #
+# surround plugin #
 
 !SLIDE bullets incremental
 

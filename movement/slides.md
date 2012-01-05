@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Movement #
+# movement #
 
 !SLIDE bullets incremental
 

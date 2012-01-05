@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Other Useful tidbits #
+# other useful tidbits #
 
 !SLIDE bullets incremental
 
