@@ -26,6 +26,23 @@
 
 !SLIDE bullets incremental
 
+# What is a word? #
+
+* A **word** consists of a sequence of letters, digits and underscores, or a
+sequence of other non-blank characters, separated with white space (spaces,
+tabs, <EOL>).
+
+* A **WORD** consists of a sequence of non-blank characters, separated with white
+space.
+
+!SLIDE center
+
+# What is a word? #
+
+![wordWORD](word_WORD.png)
+
+!SLIDE bullets incremental
+
 # Line jumping #
 
 * w/W - word
