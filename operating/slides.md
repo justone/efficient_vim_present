@@ -38,10 +38,10 @@
 # Text Objects
 
 * w, W - word
-* b, B - block
 * t - tag
 * ', " - quoted
 * (), {}, [], &lt;&gt; - block
+* b, B - block
 * s, p - sentence/paragraph
 
 !SLIDE center
